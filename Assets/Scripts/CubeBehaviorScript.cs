@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CubeBehavior : MonoBehaviour {
-public int x, y;
+public class CubeBehaviorScript : MonoBehaviour {
+	
+	public int x,y;
+	
 	// Use this for initialization
 	void Start () {
 	
